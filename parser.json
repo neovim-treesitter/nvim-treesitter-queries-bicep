@@ -1,8 +1,9 @@
 {
+  "generate": null,
+  "generate_from_json": null,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-bicep",
   "semver": false,
-  "min_version": null,
-  "max_version": null,
+  "lang": "bicep",
   "location": null,
-  "lang": "bicep"
+  "parser_version": "bff59884307c0ab009bd5e81afd9324b46a6c0f9"
 }
