@@ -1,6 +1,6 @@
 {
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-bicep",
-  "lang": "bicep",
+  "semver": false,
   "parser_version": "bff59884307c0ab009bd5e81afd9324b46a6c0f9",
-  "semver": false
+  "lang": "bicep"
 }
